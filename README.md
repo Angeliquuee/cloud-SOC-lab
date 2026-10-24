@@ -82,13 +82,13 @@ _Project statuses will be updated as each exercise is completed._
 
 Each lab exercise or investigation will aim to include:
 
-1. **Objective** — What I am trying to accomplish.
-2. **Environment** — Tools, resources, and configurations involved.
-3. **Procedure** — Step-by-step implementation.
-4. **Evidence** — Relevant screenshots, queries, logs, or findings.
-5. **Analysis** — What the results indicate and why they matter.
-6. **Remediation** — Recommended fixes or response actions, where applicable.
-7. **Lessons Learned** — Key takeaways and opportunities for improvement.
+1. **Objective**: What I am trying to accomplish.
+2. **Environment**: Tools, resources, and configurations involved.
+3. **Procedure**: Step-by-step implementation.
+4. **Evidence**: Relevant screenshots, queries, logs, or findings.
+5. **Analysis**: What the results indicate and why they matter.
+6. **Remediation**: Recommended fixes or response actions, where applicable.
+7. **Lessons Learned**: Key takeaways and opportunities for improvement.
 
 ## Security & Responsible Use
 
